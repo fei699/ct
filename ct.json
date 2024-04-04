@@ -21,6 +21,25 @@
       "quickSearch": 0,
       "filterable": 0
     },
+     {
+      "key": "酷看",
+      "name": "沉默┃酷看",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+	    {
+      "key": "南瓜",
+      "name": "沉默┃南瓜",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key":"py_cctv_集合",
       "name":"沉默┃央视",
@@ -42,8 +61,7 @@
       "filterable": 0,
       "changeable": 0,
       "jar": "./lib/阿里设置.txt"
-    },
-   
+    },   
     {
       "key": "玩偶哥哥",
       "name": "沉默┃玩偶4K",
@@ -65,27 +83,6 @@
     "filterable":1,
     "jar": "./jar.php",
     "ext":"./lib/农民影视.json"},
-    
-   {
-      "key": "酷看",
-      "name": "沉默┃酷看",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-
-	    {
-      "key": "南瓜",
-      "name": "沉默┃南瓜",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
     {
       "key": "TVB云播",
       "name": "沉默┃TVB云影",
