@@ -21,17 +21,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-{
-            "key": "阿里云集合",
-            "name": "沉默┃阿里集合",
-            "type": 3,
-            "api": "csp_阿里云集合",
-            "searchable": 1,
-            "filterable": 0,
-            "switchable": 0,
-            "ext": "./lib/阿里集合.json;./lib/token.txt",
-            "jar": "./227/真心真语0204.jar"
-        },
     {
       "key":"py_cctv_集合",
       "name":"沉默┃央视",
@@ -43,7 +32,7 @@
       "filterable":1,
       "ext":"./227/WHNe.json"
     },
-{"key":"py_cctv","name": "沉默┃CCTV影视专用","type": 3,"api": "./227/py_cctv_1.py","jar": "./227/pg.jar","searchable": 0,"quickSearch": 0,"filterable": 0},
+    {"key": "直播转点播","name": "📺┃电视┃直播","type": 3,"searchable": 0,"api": "./lib/live2vod.js","ext": "./lib/feimaolive.json"},
     {
       "key": "csp_KungFu404",
       "name": "沉默┃阿里云设置",
