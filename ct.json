@@ -31,7 +31,7 @@
       "changeable": 1
     },
     {"key":"cctv","name":"央视丨大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,
-"jar":"./lib/spider.jar","ext":"./lib/央视大全.json"},
+"jar":"./lib/hccx.jar","ext":"./lib/央视大全.json"},
 	    {
       "key": "南瓜",
       "name": "沉默┃南瓜",
