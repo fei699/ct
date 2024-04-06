@@ -920,6 +920,19 @@
       "type": 4,
       "api": "https://catbox.n13.club/t4.php?url=2"
     },
+	  {
+      "key": "Aid",
+      "name": "🚑急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
     {
       "key": "dr_兔小贝",
       "name": "沉默┃启蒙",
